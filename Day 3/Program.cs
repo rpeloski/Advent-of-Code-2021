@@ -69,7 +69,7 @@
 
     //Part 2B
 
-    binaryList = File.ReadAllLines("input.txt").ToList(); //Reloads input as above removes it.
+    binaryList = File.ReadAllLines("input.txt").ToList(); //Reloads input as above removes it
 
 
     for (var i = 0; i < binaryList[0].Length; i++) //For each digit position in the binary number
