@@ -29,7 +29,7 @@
 
     var oxygengenerator = 0;
     var co2scrubber = 0;
-    var lifesupport=0;  
+ 
     
     //Part 2A
 
